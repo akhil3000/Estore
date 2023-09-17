@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Estore/static/css/main.8e0e23e6.css",
+    "main.js": "/Estore/static/js/main.0e3cb083.js",
+    "index.html": "/Estore/index.html",
+    "main.8e0e23e6.css.map": "/Estore/static/css/main.8e0e23e6.css.map",
+    "main.0e3cb083.js.map": "/Estore/static/js/main.0e3cb083.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e0e23e6.css",
+    "static/js/main.0e3cb083.js"
+  ]
+}
